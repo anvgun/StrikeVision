@@ -6,6 +6,9 @@ from datetime import datetime
 import plotly.express as px
 import yfinance as yf
 import re
+from py_vollib.black_scholes.greeks.analytical import delta as bs_delta, gamma as bs_gamma, vega as bs_vega
+from math import log, sqrt
+from scipy.stats import norm
 
 if "saved_ticker" not in st.session_state:
     st.session_state.saved_ticker = ""
