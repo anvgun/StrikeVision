@@ -3,6 +3,10 @@
 ## Overview
 OptionsPulse Analytics is a professional-grade options analysis dashboard built on Streamlit that provides sophisticated visualization and interpretation of options market data. The platform enables traders and analysts to gain insights into market sentiment, identify potential price barriers, and analyze options volume distribution across different strike prices.
 
+![image](https://github.com/user-attachments/assets/9884cfde-5039-4c64-b04f-406af3423404)
+
+
+
 ## Features
 
 ### 1. Options Volume Heatmap
